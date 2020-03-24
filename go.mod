@@ -1,3 +1,3 @@
-module github.com/play175/wifiNotifier
+module github.com/justinask7/wifiNotifier
 
 go 1.12
